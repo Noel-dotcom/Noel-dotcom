@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Contact Information</title>
+  <title>My Contact Information</title>
   </head>
   <body>
     <h1>hmu</h1>
