@@ -6,12 +6,10 @@
 <body>  
    <h1>Contact Form</h1>
    <p>Please input your contact details</p>
-<form action="/action_page.php" method="get">
-  <label for="fname">First name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
-  <label for="lname">Last name:</label>
-  <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
+  <form>  
+     Enter your first name  <br>  
+    <input type="text" name="username">  
+  </form>  
 </form>
 </body>
 </html>
