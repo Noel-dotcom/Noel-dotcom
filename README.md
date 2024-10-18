@@ -8,6 +8,6 @@
     <p>hmu bbg hahaha</p>
     <form>
       Enter your number <br>
-      <input type="text" name+"username">
+      <input type="text" name="username">
   </body>
 </html>
