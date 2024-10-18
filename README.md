@@ -5,10 +5,7 @@
    </head>
 <body>  
    <h1>miss you</h1>
-   <p>I love you balik na pls</p>
-  <form>  
-     Enter your first name  <br>  
-    <input type="text" name="username">  
+   <p>I love you balik ka na pls</p>
   </form>  
 </body>
 </html>
