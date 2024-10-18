@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Contact Form</title>
+   
    </head>
 <body>  
-   <h1>miss you</h1>
-   <p>I love you balik ka na pls</p>
-  </form>  
+   <h1>Contact Form</h1>
+   <p>Please input your contact details</p>
+<form action="/action_page.php" method="get">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
 </body>
 </html>
