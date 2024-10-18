@@ -7,7 +7,7 @@
     <h1>hmu</h1>
     <p>hmu bbg hahaha</p>
     <form>
-      Enter your number <br>
+      Enter your first name <br>
       <input type="text" name="username">
   </body>
 </html>
